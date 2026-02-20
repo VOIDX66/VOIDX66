@@ -22,7 +22,7 @@ Trabajo con Linux diariamente y me encanta aprender nuevas tecnologías y retos 
 
 ## 📊 Estadísticas de GitHub
 
-![Jaider's GitHub stats](https://github-readme-stats.vercel.app/api?username=VOIDX66&show_icons=true&theme=radical)
+![Jaider's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=VOIDX66&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VOIDX66&layout=compact&theme=radical)
 
