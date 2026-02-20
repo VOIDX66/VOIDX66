@@ -24,7 +24,7 @@ Trabajo con Linux diariamente y me encanta aprender nuevas tecnologías y retos 
 
 ![Jaider's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=VOIDX66&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VOIDX66&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=VOIDX66&layout=compact&theme=radical)
 
 ![Jaider's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=VOIDX66&theme=radical)
 
@@ -63,15 +63,15 @@ Trabajo con Linux diariamente y me encanta aprender nuevas tecnologías y retos 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaider-rendon/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaiderrendon66@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/VOIDX66)
 
 ---
 
 ### 💬 Actualmente
 
-- Aprendiendo más sobre **Rust** y desarrollo backend escalable.  
-- Explorando **CI/CD**, despliegues en la nube y automatización de sistemas.  
-- Experimentos con **visualizaciones de datos y dashboards** para proyectos.  
+- Ampliando conocimientos en **backend moderno**, explorando nuevos lenguajes, frameworks y bases de datos.  
+- Aprendiendo sobre **patrones de diseño y principios SOLID** para escribir código más limpio y mantenible.  
+- Profundizando en desarrollo de **aplicaciones escalables y optimización de sistemas**.  
+- Experimentando con integración de nuevas tecnologías y automatización de procesos.  
 
 ---
 
