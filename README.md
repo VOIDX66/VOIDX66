@@ -37,6 +37,7 @@ Diseño y construyo sistemas modulares, concurrentes y de alto rendimiento utili
 ### :: Proyectos Destacados
 
 #### ▸ FastFill PDF — High-Performance Document Engine & SaaS
+[FastFill PDF](https://fastfillpdf.void-x-labs.com/)
 - **Plataforma SaaS de procesamiento masivo:** Motor diseñado para inyección vectorial de datos estructurados (Excel/CSV) sobre documentos PDF base a escala, alcanzando tasas de procesamiento de hasta **~480 docs/seg**.
 - **Backend & Core Engine:** API REST asíncrona y multihilo en **Rust (Axum + Tokio)** con manipulación binaria directa del árbol de objetos PDF (`lopdf`) y compresión ZIP mediante **HTTP streaming en memoria volátil** (zero disk I/O para latencia mínima y procesamiento efímero).
 - **Frontend & Canvas Interactivo:** Editor SPA construido en **React 18 + TypeScript** montado sobre **PDF.js**, implementando lienzo de precisión con guías magnéticas (snapping), renderizado HiDPI y mapeo dinámico de campos vectoriales/QR.
