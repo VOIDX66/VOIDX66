@@ -1,6 +1,6 @@
 # Jaider Rendón · VOID
 
-**Ingeniero Full Stack · React, Node & Odoo** — Risaralda, Colombia
+**Desarrollador Full Stack · React, Node & Odoo** — Risaralda, Colombia
 
 Desarrollo y mantengo software en producción: una app web que genera PDFs en masa desde Excel, una app Android de telemetría GPS publicada en Google Play y módulos fiscales para Odoo (DIAN / RNDC). Trabajo con React, TypeScript, Node y Python, y administro mi propio VPS. Ahora mismo estoy aprendiendo Rust con servicios reales desplegados.
 
@@ -51,10 +51,10 @@ SaaS para generar lotes de PDFs personalizados a partir de un Excel o CSV, mapea
 #### Road Wear · [Google Play](https://play.google.com/store/apps/details?id=com.roadwear.app)
 App Android en **Kotlin**: velocímetro GPS y control preventivo de desgaste (llantas, aceite, frenos) según kilometraje.
 - Tres modos de velocímetro, modo HUD nocturno y garaje con varios vehículos.
-- Registro de rutas con OpenStreetMap y alertas de mantenimiento sin depender de hojas de cálculo.
+- Registro de rutas con OpenStreetMap y alertas de mantenimiento según el kilometraje de cada vehículo.
 
 #### Scraper del precio del café · [argos_coffee_price_scrapper](https://github.com/VOIDX66/argos_coffee_price_scrapper)
-Mi primer servicio en **Rust + Redis**. Extrae el boletín diario de la Federación Nacional de Cafeteros y lo sirve desde caché.
+Construí mi primer servicio en **Rust + Redis**: extrae el boletín diario de la Federación Nacional de Cafeteros y lo sirve en <1 ms en el servidor desde caché.
 - API HTTP con **Axum**, caché en **Redis** con protección contra peticiones concurrentes y límite de 30 s para limpiar la caché.
 - Corre en mi VPS; se puede consultar en vivo desde el [portafolio](https://www.void-x-labs.com/portfolio/#work).
 
